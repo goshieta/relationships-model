@@ -16,3 +16,21 @@
   flex-direction: column;
   gap: 20px;
 }
+
+#body {
+  margin-left: 70px;
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+#body table {
+  margin: 50px;
+  border-collapse: collapse;
+  border: solid 1px black;
+}
+#body td,
+#body th {
+  padding: 20px;
+  border: solid 1px black;
+}
