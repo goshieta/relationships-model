@@ -1,0 +1,18 @@
+#main {
+  display: flex;
+}
+#side_bar {
+  width: 70px;
+  background-color: var(--pale-theme-color);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+}
+#button_area {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}

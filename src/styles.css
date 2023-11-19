@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap");
+
+* {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  color: var(--font-color);
+}
+
+:root {
+  --font-color: rgb(50, 0, 13);
+  --theme-color: rgb(255, 0, 123);
+  --pale-theme-color: rgb(255, 222, 238);
+  --bit-dark-theme-color: rgb(235, 0, 114);
+  --dark-theme-color: rgb(194, 0, 94);
+}
+body {
+  margin: 0;
+  padding: 0;
+}
